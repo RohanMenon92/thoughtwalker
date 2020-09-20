@@ -12,7 +12,7 @@ W,A,S,D to move around
 Spacebar to open the journal
 
 ## Screenshots
-![Screen](https://github.com/RohanMenon92/thoughtwalker/blob/master/Screenshots/thoughtwalker1.PNG)
-![Shield2](https://github.com/RohanMenon92/thoughtwalker/blob/master/Screenshots/thoughtwalker2.PNG)
-![Gameplay](https://github.com/RohanMenon92/thoughtwalker/blob/master/Screenshots/thoughtwalker3.PNG)
-![Gameplay](https://github.com/RohanMenon92/thoughtwalker/blob/master/Screenshots/thoughtwalker4.PNG)
+![Screen](https://github.com/RohanMenon92/thoughtwalker/blob/master/Screenshots/ThoughtWalker1.PNG)
+![Shield2](https://github.com/RohanMenon92/thoughtwalker/blob/master/Screenshots/ThoughtWalker2.PNG)
+![Gameplay](https://github.com/RohanMenon92/thoughtwalker/blob/master/Screenshots/ThoughtWalker3.PNG)
+![Gameplay](https://github.com/RohanMenon92/thoughtwalker/blob/master/Screenshots/ThoughtWalker4.PNG)
